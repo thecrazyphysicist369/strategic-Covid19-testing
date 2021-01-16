@@ -3,7 +3,7 @@ Via this project we tried to estimate what would be the minimum number of testin
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The project can be directly executed from the browser. But if you intend to use it locally then you'd need these packages.
 
 ### Prerequisites
 
