@@ -40,7 +40,7 @@ About n-Neighbor testing
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
+### The Simulation
 
 Explain what these tests test and why
 
@@ -48,17 +48,28 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
+#### Input Value execution
 
 Explain what these tests test and why
 
+
+#### Slider execution
 ```
 Give an example
 ```
 
-## Deployment
+## Results
 
-Add additional notes about how to deploy this on a live system
+Discuss the results include how the number of tests per day affects the network.
+### Random Testing
+![](https://github.com/thecrazyphysicist369/strategic-Covid19-testing/blob/main/images/random%2010000%205.png)
+
+### Targeted Testing
+![](https://github.com/thecrazyphysicist369/strategic-Covid19-testing/blob/main/images/tar%2010000%205.png)
+
+### n-Neighbor Testing
+![](https://github.com/thecrazyphysicist369/strategic-Covid19-testing/blob/main/images/neighbor%2010000%205.png)
+
 
 ## Built With
 
@@ -68,7 +79,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
 
 ## Versioning
 
