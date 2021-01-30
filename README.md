@@ -1,11 +1,12 @@
 # strategic-Covid19-testing
 Via this project we tried to estimate what would be the minimum number of testing to be done in a pandemic affected small world netwrok to recover from the pandemic. We also analysed 3 forms of testing and compared their results.
 
-## Getting Started
+## Abstract
 
 The project can be directly executed from the browser. But if you intend to use it locally then you'd need these packages.
 
-### Prerequisites
+## Components
+### Epidemiological Compartmental Model
 
 What things you need to install the software and how to install them
 
@@ -13,25 +14,29 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+### Watts-Strogatz Small World Network
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Talk about the watts-strogatz network
 
 ```
 Give the example
 ```
 
-And repeat
+### Testing Strategies
 
-```
-until finished
-```
+Few lines about how the testing strategy differs
 
-End with an example of getting some data out of the system or using it for a little demo
+#### Random Testing
+About Random testing
 
-## Running the tests
+#### Targeted Testing
+About targeted testing
+
+#### n-Neighbor Testing
+About n-Neighbor testing
+
+
+## Executing the Code
 
 Explain how to run the automated tests for this system
 
