@@ -74,9 +74,10 @@ Discuss the results include how the number of tests per day affects the network.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python-3](https://www.python.org/) - The language.
+* [Networkx](https://matplotlib.org/) - The network generating library.
+* [Matplotlib](https://networkx.org/) - The plotting-visualising library.
+
 
 ## Contributing
 
@@ -87,11 +88,11 @@ Discuss the results include how the number of tests per day affects the network.
 
 * **Sayan Mondal** - *Author* - [Twitter](https://twitter.com/sayanmondal2098), [Google Scholar](https://scholar.google.com/...)
 
-* **Ritajit Mojumdar** - *Corresponding Author* - [Google Scholar](https://scholar.google.com/citations?user=eZL1OXcAAAAJ&hl=en)
+* **Ritajit Mojumdar** - *Co-author* - [Google Scholar](https://scholar.google.com/citations?user=eZL1OXcAAAAJ&hl=en)
 
-* **Dr. Kingshuk Chatterjee** - *Co-authored* - [Google Scholar](https://scholar.google.com/citations?user=o-WIpn0AAAAJ&hl=en)
+* **Dr. Kingshuk Chatterjee** - *Co-author* - [Google Scholar](https://scholar.google.com/citations?user=o-WIpn0AAAAJ&hl=en)
 
-* **Dr. Debayan Ganguly** - *Co-authored* - [Google Scholar](https://scholar.google.com/citations?user=ikohpY4AAAAJ&hl=en)
+* **Dr. Debayan Ganguly** - *Co-author* - [Google Scholar](https://scholar.google.com/citations?user=ikohpY4AAAAJ&hl=en)
 
 ## Acknowledgments
 
