@@ -6,6 +6,7 @@ Via this project we tried to estimate what would be the minimum number of testin
 The project can be directly executed from the browser. But if you intend to use it locally then you'd need these packages.
 
 ## Components
+
 ### Epidemiological Compartmental Model
 
 What things you need to install the software and how to install them
@@ -80,20 +81,17 @@ Discuss the results include how the number of tests per day affects the network.
 ## Contributing
 
 
+### Authors
 
-## Versioning
+* **Shaun** - *Author* - [Twitter](https://twitter.com/thecrzyphysicst), [Google Scholar](https://scholar.google.com/citations?hl=en&user=mxc8IfcAAAAJ)
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* **Sayan Mondal** - *Author* - [Twitter](https://twitter.com/sayanmondal2098), [Google Scholar](https://scholar.google.com/...)
 
-## Authors
+* **Ritajit Mojumdar** - *Corresponding Author* - [Google Scholar](https://scholar.google.com/citations?user=eZL1OXcAAAAJ&hl=en)
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Dr. Kingshuk Chatterjee** - *Co-authored* - [Google Scholar](https://scholar.google.com/citations?user=o-WIpn0AAAAJ&hl=en)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Dr. Debayan Ganguly** - *Co-authored* - [Google Scholar](https://scholar.google.com/citations?user=ikohpY4AAAAJ&hl=en)
 
 ## Acknowledgments
 
