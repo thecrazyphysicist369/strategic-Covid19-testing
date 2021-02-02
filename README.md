@@ -1,9 +1,9 @@
-# strategic-Covid19-testing
+# Strategic Covid19 Testing
+
 Via this project we tried to estimate what would be the minimum number of testing to be done in a pandemic affected small world netwrok to recover from the pandemic. We also analysed 3 forms of testing and compared their results.
 
 ## Abstract
 
-The project can be directly executed from the browser. But if you intend to use it locally then you'd need these packages.
 
 ## Components
 
@@ -15,13 +15,17 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Watts-Strogatz Small World Network
+### [Watts-Strogatz Small World Network](https://en.wikipedia.org/wiki/Watts%E2%80%93Strogatz_model)
+![](https://github.com/thecrazyphysicist369/Voting-in-a-Small-World-Network/blob/master/swn.png)
 
-Talk about the watts-strogatz network
+This is a special type of graph, a small world, which depicts the human dynamics of real world in a fundamental level without all the real world abstractions.
+Watts-Strogatz small world network uses 3 variables to define the network.
 
-```
-Give the example
-```
+1. ***Nodes              =  n***   _The total number of nodes in the Small World_
+2. ***Nearest neighbors  =  k***   _The number of nodes each node is connected to. Also called nearest-neighbors_
+3. ***Probability        =  p***   _This is the length of connection of the edges_
+
+
 
 ### Testing Strategies
 
