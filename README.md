@@ -9,17 +9,17 @@ Via this project we tried to estimate what would be the minimum number of testin
 
 ### Epidemiological Compartmental Model
 
-What things you need to install the software and how to install them
+[Compartmental Models](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) are mathematical sets of differential equation used to study an epidemic or pandemic through time.
 
 ```
 Give examples
 ```
 
-### [Watts-Strogatz Small World Network](https://en.wikipedia.org/wiki/Watts%E2%80%93Strogatz_model)
+### Watts-Strogatz Small World Network
 ![](https://github.com/thecrazyphysicist369/Voting-in-a-Small-World-Network/blob/master/swn.png)
 
 This is a special type of graph, a small world, which depicts the human dynamics of real world in a fundamental level without all the real world abstractions.
-Watts-Strogatz small world network uses 3 variables to define the network.
+[Watts-Strogatz](https://en.wikipedia.org/wiki/Watts%E2%80%93Strogatz_model) small world network uses 3 variables to define the network.
 
 1. ***Nodes              =  n***   _The total number of nodes in the Small World_
 2. ***Nearest neighbors  =  k***   _The number of nodes each node is connected to. Also called nearest-neighbors_
