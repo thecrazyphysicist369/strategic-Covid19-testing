@@ -43,15 +43,12 @@ About n-Neighbor testing
 
 ## Executing the Code
 
-Explain how to run the automated tests for this system
+The simulation can be executed in two forms Both the forms are coded into the same Jupyter Notebook. Just read the instruction in the Notebook text section.
 
 ### The Simulation
 
-Explain what these tests test and why
+Simulating the hybrid model means running the small world network through the given iteration. That includes intial generation of the network and infection the given number of individuals in the population. Then the virus spread happens and the model runs through iterations saving the compartmental values for later analysis and plotting. The final section can be used in two ways, the first one is simultion through input values and the second one is running the simulation with parameters in sliders.
 
-```
-Give an example
-```
 
 #### Input Value execution
 
