@@ -9,11 +9,10 @@ Via this project we tried to estimate what would be the minimum number of testin
 
 ### Epidemiological Compartmental Model
 
-[Compartmental Models](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) are mathematical sets of differential equation used to study an epidemic or pandemic through time.
+[Compartmental Models](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) are mathematical sets of differential equation used to study an epidemic or pandemic through time. These differential equations may be solvable or may be not. There are many kinds of compartmental model which are used by researchers for their specific research. In this project **S-E-I-R-S** model has been used. Each letter in the model means a compartment that is described in details : 
+1. ***Susceptibe (S) =***
 
-```
-Give examples
-```
+
 
 ### Watts-Strogatz Small World Network
 ![](https://github.com/thecrazyphysicist369/Voting-in-a-Small-World-Network/blob/master/swn.png)
