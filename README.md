@@ -10,7 +10,10 @@ Via this project we tried to estimate what would be the minimum number of testin
 ### Epidemiological Compartmental Model
 
 [Compartmental Models](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) are mathematical sets of differential equation used to study an epidemic or pandemic through time. These differential equations may be solvable or may be not. There are many kinds of compartmental model which are used by researchers for their specific research. In this project **S-E-I-R-S** model has been used. Each letter in the model means a compartment that is described in details : 
-1. ***Susceptibe (S) =***
+1. ***Susceptibe        (S) =*** __
+2. ***Exposed           (E) =*** __
+3. ***Infected          (I) =*** __
+4. ***Recovered/Removed (R) =*** __
 
 
 
@@ -31,6 +34,11 @@ This is a special type of graph, a small world, which depicts the human dynamics
 Few lines about how the testing strategy differs
 
 #### Random Testing
+```
+Pseudocode for random testing
+```
+
+
 About Random testing
 
 #### Targeted Testing
@@ -96,6 +104,3 @@ Discuss the results include how the number of tests per day affects the network.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
