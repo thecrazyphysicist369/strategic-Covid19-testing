@@ -15,7 +15,7 @@ Via this project we tried to estimate what would be the minimum number of testin
 3. ***Infected          (I) =*** __
 4. ***Recovered/Removed (R) =*** __
 
-
+The time dependent movement of the people from one compartment to another based on the actions of the virus are goverened by sets of differential equations. Each of this equation tells us the rate of change of population in every compartment. That gives epidemiologists and virologists a solid idea of how the virus is infecting the population and how the healthcare measures needs to be placed to incur minimum damage.
 
 ### Watts-Strogatz Small World Network
 ![](https://github.com/thecrazyphysicist369/Voting-in-a-Small-World-Network/blob/master/swn.png)
