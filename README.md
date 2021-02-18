@@ -12,7 +12,7 @@ Via this project we tried to estimate what would be the minimum number of testin
 [Compartmental Models](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) are mathematical sets of differential equation used to study an epidemic or pandemic through time. These differential equations may be solvable or may be not. There are many kinds of compartmental model which are used by researchers for their specific research. In this project **S-E-I-R-S** model has been used. Each letter in the model means a compartment that is described in details : 
 1. ***Susceptibe        (S) =*** _The compartment of Individuals who can get exposed to the virus._
 2. ***Exposed           (E) =*** _The compartment of Individuals who has been exposed to the virus by someone infected. The exposed individuals do not show symptoms and do not expose other susceptible. One in every 5 exposed individuals starts to show symptoms and is moved to Infected._
-3. ***Infected          (I) =*** __
+3. ***Infected          (I) =*** _The compartment of Individuals who turned symptomatic are in this compartment. These individuals can expose the virus to susceptible and make them Exposed._
 4. ***Recovered/Removed (R) =*** __
 
 The time dependent movement of the people from one compartment to another based on the actions of the virus are goverened by sets of differential equations. Each of this equation tells us the rate of change of population in every compartment. That gives epidemiologists and virologists a solid idea of how the virus is infecting the population and how the healthcare measures needs to be placed to incur minimum damage.
