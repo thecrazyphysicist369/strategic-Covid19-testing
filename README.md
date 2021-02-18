@@ -13,7 +13,7 @@ Via this project we tried to estimate what would be the minimum number of testin
 1. ***Susceptibe        (S) =*** _The compartment of Individuals who can get exposed to the virus._
 2. ***Exposed           (E) =*** _The compartment of Individuals who has been exposed to the virus by someone infected. The exposed individuals do not show symptoms and do not expose other susceptible. One in every 5 exposed individuals starts to show symptoms and is moved to Infected._
 3. ***Infected          (I) =*** _The compartment of Individuals who turned symptomatic are in this compartment. These individuals can expose the virus to susceptible and make them Exposed._
-4. ***Recovered/Removed (R) =*** __
+4. ***Recovered/Removed (R) =*** _The compartment of Individuals who have either cured from the virus and no longer Infectious or Susceptible. This also has the individuals who have died in the pandemic._
 
 The time dependent movement of the people from one compartment to another based on the actions of the virus are goverened by sets of differential equations. Each of this equation tells us the rate of change of population in every compartment. That gives epidemiologists and virologists a solid idea of how the virus is infecting the population and how the healthcare measures needs to be placed to incur minimum damage.
 
@@ -23,9 +23,9 @@ The time dependent movement of the people from one compartment to another based 
 This is a special type of graph, a small world, which depicts the human dynamics of real world in a fundamental level without all the real world abstractions.
 [Watts-Strogatz](https://en.wikipedia.org/wiki/Watts%E2%80%93Strogatz_model) small world network uses 3 variables to define the network.
 
-1. ***Nodes              =  n***   _The total number of nodes in the Small World_
-2. ***Nearest neighbors  =  k***   _The number of nodes each node is connected to. Also called nearest-neighbors_
-3. ***Probability        =  p***   _This is the length of connection of the edges_
+1. ***Nodes              =  n***   _The total number of nodes in the Small World._
+2. ***Nearest neighbors  =  k***   _The number of nodes each node is connected to. Also called close-contacts._
+3. ***Probability        =  p***   _This is the length of connection of the edges._
 
 
 
