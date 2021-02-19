@@ -31,7 +31,7 @@ This is a special type of graph, a small world, which depicts the human dynamics
 
 ### Testing Strategies
 
-Few lines about how the testing strategy differs
+Few lines about how the testing strategy differs.
 
 #### Random Testing
 ```
