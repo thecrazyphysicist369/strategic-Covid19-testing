@@ -42,9 +42,15 @@ Pseudocode for random testing
 About Random testing
 
 #### Targeted Testing
+```
+Pseudocode for random testing
+```
 About targeted testing
 
 #### n-Neighbor Testing
+```
+Pseudocode for random testing
+```
 About n-Neighbor testing
 
 
