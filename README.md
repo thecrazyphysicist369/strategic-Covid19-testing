@@ -32,6 +32,7 @@ This is a special type of graph, a small world, which depicts the human dynamics
 ### Testing Strategies
 
 Few lines about how the testing strategy differs.
+Testing strategy referes to how one chooses the test subject. In real world, the governments used different strategies dependent on the time in the pandemic, geographical location, population density, demography of the population, etc. The math used to choose the test subject affects the growth of the infected population significantly. In this project, we removed all the abstractions from these testing strategies and brought it down into bare bone. Here 3 different testing strategies were tested.
 
 #### Random Testing
 ```
