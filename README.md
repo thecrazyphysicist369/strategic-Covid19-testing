@@ -35,6 +35,8 @@ Few lines about how the testing strategy differs.
 Testing strategy referes to how one chooses the test subject. In real world, the governments used different strategies dependent on the time in the pandemic, geographical location, population density, demography of the population, etc. The math used to choose the test subject affects the growth of the infected population significantly. In this project, we removed all the abstractions from these testing strategies and brought it down into bare bone. Here 3 different testing strategies were tested.
 
 #### Random Testing
+
+In random testing every individual to be tested is picked at random from the total population. If the tested subject is _Exposed_ or _Infected_ then he/she would result positive and will be quarantined (all connections cut-off) for the next 15 days. If the testes subject is found to be negative, then nothing is done.
 ```
 Pseudocode for random testing
 ```
@@ -46,7 +48,7 @@ About Random testing
 ```
 Pseudocode for random testing
 ```
-About targeted testing
+
 
 #### n-Neighbor Testing
 ```
