@@ -103,7 +103,7 @@ Discuss the results include how the number of tests per day affects the network.
 
 * **Shaun** - *Author* - [Twitter](https://twitter.com/thecrzyphysicst), [Google Scholar](https://scholar.google.com/citations?hl=en&user=mxc8IfcAAAAJ)
 
-* **Sayan Mondal** - *Author* - [Twitter](https://twitter.com/sayanmondal2098), [Google Scholar](https://scholar.google.com/...)
+* **Sayan Mondal** - *Author* - [Twitter](https://twitter.com/sayanmondal2098), [Google Scholar](https://scholar.google.com/citations?hl=en&user=dwLadG8AAAAJ)
 
 * **Ritajit Mojumdar** - *Co-author* - [Google Scholar](https://scholar.google.com/citations?user=eZL1OXcAAAAJ&hl=en)
 
