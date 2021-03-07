@@ -38,7 +38,11 @@ Testing strategy referes to how one chooses the test subject. In real world, the
 
 In random testing every individual to be tested is picked at random from the total population. If the tested subject is _Exposed_ or _Infected_ then he/she would result positive and will be quarantined (all connections cut-off) for the next 15 days. If the testes subject is found to be negative, then nothing is done.
 ```
-Pseudocode for random testing
+for individual in population:
+    result = individual.test()
+    if result == positive:
+      individual.quarantine()
+      
 ```
 
 
