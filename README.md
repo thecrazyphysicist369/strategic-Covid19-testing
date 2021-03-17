@@ -57,9 +57,16 @@ for individual in Infected:
 
 
 #### n-Neighbor Testing
-
+In **n-Neighbor Testing** individuals in the population are tested randomly. The individuals who are found positive, their neighbor is tested. This test is just one hop distance. The neighbors who are found positive, their neighbours are not tested. 
 ```
-Pseudocode for random testing
+for individual in population:
+    result = individual.test()
+    if result == positive:
+        neighbors = individual.neighbors()
+        for friends in neighbors:
+            if friends.test() == positive:
+                friends.quarantine()
+        individual.quarantine()
 ```
 
 
