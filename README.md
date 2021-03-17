@@ -36,7 +36,7 @@ Testing strategy referes to how one chooses the test subject. In real world, the
 
 #### Random Testing
 
-In random testing every individual to be tested is picked at random from the total population. If the tested subject is _Exposed_ or _Infected_ then he/she would result positive and will be quarantined (all connections cut-off) for the next 15 days. If the testes subject is found to be negative, then nothing is done.
+In **Random Testing** every individual to be tested is picked at random from the total population. If the tested subject is _Exposed_ or _Infected_ then he/she would result positive and will be quarantined (all connections cut-off) for the next 15 days. If the testes subject is found to be negative, then nothing is done.
 ```
 for individual in population:
     result = individual.test()
@@ -46,9 +46,8 @@ for individual in population:
 ```
 
 
-About Random testing
-
 #### Targeted Testing
+In **Targeted Testing** those individuals are tested who have already been infected and are in the _Infected_ compartment. Naturally every individual who has the disease will test positive. When individuals tests positive, they are quarantined for the next 15 days. After quarantine, the individuals may recover or may die and hence removed. Recovery rate of covid in India = 0.5%.
 ```
 Pseudocode for random testing
 ```
