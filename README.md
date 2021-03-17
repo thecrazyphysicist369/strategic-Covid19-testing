@@ -49,15 +49,19 @@ for individual in population:
 #### Targeted Testing
 In **Targeted Testing** those individuals are tested who have already been infected and are in the _Infected_ compartment. Naturally every individual who has the disease will test positive. When individuals tests positive, they are quarantined for the next 15 days. After quarantine, the individuals may recover or may die and hence removed. Recovery rate of covid in India = 0.5%.
 ```
-Pseudocode for random testing
+for individual in Infected:
+    result = individual.test()
+    if result == positive:
+        individual.quarantine()
 ```
 
 
 #### n-Neighbor Testing
+
 ```
 Pseudocode for random testing
 ```
-About n-Neighbor testing
+
 
 
 ## Executing the Code
