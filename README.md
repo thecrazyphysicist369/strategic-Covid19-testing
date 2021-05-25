@@ -86,9 +86,17 @@ Explain what these tests test and why
 
 
 #### Slider execution
+
 ```
-Give an example
+1. Population           =   10,000 - 100,000
+2. Nearest Neighbour    =   0 - 100
+3. Probability          =   0 - 1
+4. Iterations           =   0 - 600
+5. Test per Million     =   1000 - 100,000
+6. Initial Exposure     =   10 - 500
+
 ```
+![](https://github.com/thecrazyphysicist369/strategic-Covid19-testing/blob/main/images/slider.jpg)
 
 ## Results
 
