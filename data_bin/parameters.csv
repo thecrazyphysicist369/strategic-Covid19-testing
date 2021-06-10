@@ -1,0 +1,27 @@
+Random Testing,,,Targeted Testing,,
+Population 1 M,,,Population 1 M,,
+Test per million 2000,,,Test per million 2000,,
+Initial exposure 50,,,Initial exposure 50,,
+k (nearest neibours),p (probability of connection),,k (nearest neibours),p (probability of connection),
+5,0-1,,5,0-1,
+10,0-1,,10,0-1,
+15,0-1,,15,0-1,
+20,0-1,,20,0-1,
+,,,,,
+total,44 runs,,total,44 runs,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Targeted N- neighbor,,,Random N- neighbor,,
+Population 1 M,,,Population 1 M,,
+Test per million 2000,,,Test per million 2000,,
+Initial exposure 50,,,Initial exposure 50,,
+k (nearest neibours),p (probability of connection),n(level of neighbors),k (nearest neibours),p (probability of connection),n(level of neighbors)
+5,0-1,1 - 10,5,0-1,1 - 10
+10,0-1,1 – 10,10,0-1,1 – 10
+15,0-1,1 – 10,15,0-1,1 – 10
+20,0-1,1 – 10,20,0-1,1 – 10
+,,,,,
+total,,440,total,,440
